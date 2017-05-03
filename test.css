@@ -1,8 +1,8 @@
 body{
-  background: url("media/front9.jpg") no-repeat center fixed;
+  background: #EBEBEB;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  color:  #400000;
+  color:  #7d7d7d;
   font-size: 15px;
   line-height: 1.6em;
 }
@@ -13,18 +13,16 @@ h1, h2, h3{
 }
 
 h1{
-  color: #36246c;
+  color: #DD5555;
   font-size: 22px;
 }
 
 h2{
-  color: #6c2436;
   font-size: 18px;
   font-weight: 300;
 }
 
 h3{
-  color: #6e1e57;
   font-size: 16px;
   font-weight: 300;
 }
@@ -34,19 +32,19 @@ p{
 }
 
 a{
-  color: #05486c;
+  color: #ccc;
   text-decoration: none;
 }
 
 a:hover{
-  color: #ff0080;
+  color: #DD5555;
   text-decoration: none;
 }
 
+
 /* First simple components */
 .card{
-  background: url("media/font2.jpg") no-repeat;
-  background-size: cover;
+  background: white;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 4px;
@@ -72,7 +70,7 @@ a:hover{
   font-size: 25px;
 }
 .btn-red{
-  background-color: green;
+  background-color: #DD5555;
   color: white;
   font-weight: 500;
   padding: 10px;
@@ -139,7 +137,7 @@ a:hover{
 
 #footer{
   position: relative;
-  /*padding: 10px 400px 60px 20px;*/
+  padding: 10px 400px 60px 20px;
 }
 
 #share{
