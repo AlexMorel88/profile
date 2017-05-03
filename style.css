@@ -2,7 +2,7 @@
 html {
   margin:0;
   padding:0;
-  background: url("/home/lalex/code/AlexMorel88/profile/media/front9.jpg") no-repeat center fixed;
+  background: url("media/front9.jpg") no-repeat center fixed;
   -webkit-background-size: cover; /* pour anciens Chrome et Safari */
   background-size: cover; /* version standardisée */
 }
@@ -68,7 +68,7 @@ table{
 }
 
 .card{
-  background: url("/home/lalex/code/AlexMorel88/profile/media/font2.jpg") no-repeat;
+  background: url("media/font2.jpg") no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
   padding: 20px;
